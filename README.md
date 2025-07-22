@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h2>About Me</h2>
 
-Hi, I’m **Gregorius Ardhito**, a software developer
+Hi, I’m **Gregorius Ardhito**, a software developer  
 Currently learning more about backend architecture
 
 ### Projects
@@ -13,8 +13,8 @@ Currently learning more about backend architecture
 - I worked on backend services using **Node.js** and **MySQL**, focusing on handling new API.
 - I also worked on frontend services using **Vue.js** and **Tailwind**
 
-🛠️ Tech used: Node.js, Express, MySQL 
-🔗 *Private Repo / Internal Project*
+🛠️ Tech used: Node.js, Express, MySQL   
+🔗 *Private Repo / Internal Project*  
 🌐 [Visit Website](https://curcool.com)
 
 #### 🌍 Earthquake Clustering (Final Thesis Project)  
@@ -25,13 +25,13 @@ Currently learning more about backend architecture
 - Evaluated clustering using **Elbow Method** and **Silhouette Score**.
 - Visualized clustering results on an **interactive Folium map** of Indonesia.
 
-🛠️ Tech used: Python, Pandas, Scikit-learn-extra, Folium
+🛠️ Tech used: Python, Pandas, Scikit-learn-extra, Folium  
 🔗 [View Repo](https://github.com/greardhito/earthquake-cluster)
 
 
 ### 💻 Tech Stack
 
-**Languages:**
+**Languages:**  
 Javascript, TypeScript, Python, Java, SQL
 
 **Frontend:**  
