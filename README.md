@@ -38,7 +38,7 @@ Javascript, TypeScript, Python, Java, SQL
 HTML, CSS, Vue.js, Tailwind CSS, Bootstrap
 
 **Backend:**  
-Node.js, Express.js, RESTful API
+Node.js, Express, RESTful API
 
 **Database:**  
 MySQL, PostgreSQL
