@@ -15,7 +15,7 @@ Currently learning more about backend architecture
 
 🛠️ Tech used: Node.js, Express, MySQL 
 🔗 *Private Repo / Internal Project*
-🌐 Visit Website curcool.com
+🌐 [Visit Website](https://curcool.com)
 
 #### 🌍 Earthquake Clustering (Final Thesis Project)  
 > A data science project that explores earthquake distribution across Indonesia using clustering algorithms.
