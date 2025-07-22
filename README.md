@@ -11,11 +11,11 @@ Currently learning more about backend architecture
 
 - Built during my internship as part of a team.
 - I worked on backend services using **Node.js** and **MySQL**, focusing on handling new API.
-- I also worked on frontend services using **Vue.js*** and **Tailwind**
+- I also worked on frontend services using **Vue.js** and **Tailwind**
 
 🛠️ Tech used: Node.js, Express, MySQL 
 🔗 *Private Repo / Internal Project*
-🔗 Website: curcool.com
+🌐 Visit Website curcool.com
 
 #### 🌍 Earthquake Clustering (Final Thesis Project)  
 > A data science project that explores earthquake distribution across Indonesia using clustering algorithms.
