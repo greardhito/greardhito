@@ -43,9 +43,6 @@ Node.js, Express, RESTful API
 **Database:**  
 MySQL, PostgreSQL
 
-**Tools:**  
-Git, Docker, Postman
-
 
 ### 🌐 Contact & Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/gregorius-ardhito-mahendra-wibowo)  
